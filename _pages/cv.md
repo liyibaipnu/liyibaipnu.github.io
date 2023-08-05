@@ -20,14 +20,14 @@ Education
 
 * Sep. 2015 - Feb. 2021, Ph.D. in Naonofusion Technology, Pusan National University, Busan, Korea.
 
-* Sep. 2011 - July 2015, B.S. in Polymer Materials and Engineering, Zhongyuan University of Technology, Zhengzhou, China
+* Sep. 2011 - Jul. 2015, B.S. in Polymer Materials and Engineering, Zhongyuan University of Technology, China
 
 Work Experience
 ======
 
-* Aug. 2018, Lecturer, “Computer Simulation with LAMMPS”, Pusan National University Summer School for high school students
+* Aug. 2018, Lecturer, “Computer Simulation with LAMMPS”, Pusan National University Summer School
 
 * June 2017, Visiting student, Institute of High Energy Physics Chinese Academy of Sciences
   * Host: Prof. Gao Xinfa
 
-* July 2017, Lecturer, “Computer Simulation with LAMMPS”, Pusan National University Summer School for high school students
+* July 2017, Lecturer, “Computer Simulation with LAMMPS”, Pusan National University Summer School
