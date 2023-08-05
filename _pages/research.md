@@ -11,38 +11,37 @@ Currently, I am working on the projects of novel high-voltage lithium-ion electr
 
 ## Computational Design and Development of Li-Ion Concentrated Electrolytes
 
-<!-- <img src="/images/polyelectrolyte_fig.png" alt="" width="500"/>
+<img src="/images/ann.png" alt="" width="500"/>
 
-Li-ion battery electrolytes with enhanced transport properties may enable batteries with higher energy and power densities. I use molecular dynamics simulations to study how these macroscopic transport quantities arise from molecular-level interactions between ions in solution. Using the theoretical developments described below, I rigorously quantify ion correlations in the electrolyte, which can substantially impact macroscopic transport but are challenging to measure experimentally. The aim of this work is to provide insight into the types of electrolyte formulations which may yield high conductivity, high cation transference number, or facile transport under low temperature conditions. My work thus far has in particular explored the transport properties of nonaqueous polyelectrolyte solutions and polymerized ionic liquids.
+The wide electrochemical stability window and nonflammable characteristics exhibited by the localized super-high concentration aqueous electrolyte of lithium-ion batteries have brought new ideas for the development of next-generation power requirements. Ion transport, as one of the most fundamental processes of electrolytes, is important for the design and development of high performance nonflammable batteries. However, atomistic mechanisms and characteristics of ion transport in localized ultra-high concentration electrolytes remain largely unexplored. I employ the "modular development of deep potential" strategy, integrating deep learning, first-principles calculations, and molecular dynamics methods, to develop a deep neural network-based model potential known as Deep Potential(forcefield). The development of this deep potential is of great significance for enabling large-scale molecular dynamics simulations of complex high-concentration electrolytes, as well as opening up avenues for analyzing the microscopic structure, ion conductivity, and transport mechanisms of localized ultra-high concentration electrolytes.
 
-<span style="color:steelblue; font-size:0.8em;">**K. D. Fong**, J. Self, B. D. McCloskey, K. A. Persson. “Onsager
-Transport Coefficients and Transference Numbers in Polyelectrolyte
-Solutions and Polymerized Ionic Liquids.” *Macromolecules*, 2020, 53,
-21: 9503-9512. [[doi](https://doi.org/10.1021/acs.macromol.0c02001)]</span> -->
+<span style="color:steelblue; font-size:0.8em;"> **Bai, L**. et al. Accurate deep potential for ternary high-voltage lithium-ion aqueous electrolytes. In Preparation.
 
 
 
-## Polarization Reversal in 2D Ferroelectric Material: Avalanche dynamics of 1D domain walls driven by $E_OP$ in 2D α-$In_2$$Se_3$
+## Polarization Reversal in 2D Ferroelectric α-$In_2$$Se_3$
 
 <img src="/images/Avalanche dynamics of 1D domain walls.jpg" alt="" width="700"/>
+ 
+
+ Two-dimensional (2D) ferroelectric semiconductors with electrically addressable vertical polarization present opportunities for integrating ferroelectrics into high-density ultrathin nanoelectronics, yet quantitative microscopic understanding of ferroelectric switching in 2D is rather limited. We employ deep-learning-assisted large-scale molecular dynamics simulations to analyze the switching processes of 2D domains and 1D domain walls in 2D ferroelectrics with out-of-plane polarization, revealing mechanisms fundamentally different from those of bulk ferroelectrics. We discover that a single domain is unswitchable by an out-of-plane electric field due to forbidden splitting of Wyckoff orbits. This ``splitting restriction principle" is a prevalent feature across a wide spectrum of 2D systems with sliding ferroelectricity and moir\'e ferroelectricity. Despite lacking in-plane effective polarization, 1D domain walls are easily moved by in-plane fields, exhibiting unusual avalanche dynamics characterized by abrupt, intermittent moving patterns. The propagating velocity at various temperatures, field orientations, and strengths can be statistically described with a universal creep equation, featuring a dynamical exponent of 2 that is distinct from all known values for elastic interfaces moving in disordered media. We demonstrate a tunable onset field for the intrinsic creep-depinning transition, suggesting a simple route for on-demand configuration of switching speed.
+
+
 
 <span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic ferroelectric switching in two dimensions. arXiv preprint arXiv:2307.09211. [[doi](
 https://doi.org/10.48550/arXiv.2307.09211)]</span>
 
 ## Structure and Dynamics of Hydration Layer
+<img src="/images/hydration.png" alt="" width="500"/>
 
 ## Computational Design of Super-hydrophobic Surfaces
-
+<img src="/images/surface-design.png" alt="" width="500"/>
 
 
 ## Research Experience
 
 * 2017,Classical molecular dynamics, ab initio MD, Deep Potential MD, DFT  
-
-* 2018, Lithum-ion water-in-salt electrolytes design based on deep learning  
-
-* 2019, Ferroelectric materials based on deep learning  
-
+* 
 * 2020, Theory and simulation of sum frequency generation spectroscopy of interfacial structure (liquid/solid)  
 
 * 2021, Molecular simulation on the phase, structure and dynamics of hydration layer  

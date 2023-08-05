@@ -6,7 +6,7 @@ author_profile: true
 ---
 [Google Scholar Profile](https://scholar.google.co.uk/citations?user=T4TaoM0AAAAJ&hl=en&oi=ao)
 
-1. **Bai, L**. et al. Deep Learning of Accurate Force Field of Water-in-salt Electrolytes. In Preparation.
+1. **Bai, L**. et al. Accurate deep potential for ternary high-voltage lithium-ion aqueous electrolytes. In Preparation.
 2. **Bai, L**. et al. Ab initio Molecular Dynamics Study on Vibrational Sum Frequency Generation of Water
 at Hydrophobic/hydrophilic Surfaces. In Preparation.
 3. **Bai, L**. C. Ke, T. Zhu, S. Liu.(2023). Intrinsic ferroelectric switching in two dimensions. arXiv:2307.09211. submitted.
