@@ -26,7 +26,8 @@ Solutions and Polymerized Ionic Liquids.” *Macromolecules*, 2020, 53,
 
 <img src="/images/Avalanche dynamics of 1D domain walls.jpg" alt="" width="700"/>
 
-<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic ferroelectric switching in two dimensions. arXiv preprint arXiv:2307.09211. [[doi](https://doi.org/10.48550/arXiv.2307.09211.)]</span>
+<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic ferroelectric switching in two dimensions. arXiv preprint arXiv:2307.09211. [[doi](
+https://doi.org/10.48550/arXiv.2307.09211)]</span>
 
 ## Structure and Dynamics of Hydration Layer
 
