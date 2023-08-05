@@ -11,8 +11,22 @@ Currently, I am working on the projects of novel high-voltage lithium-ion electr
 
 ## Computational Design and Development of Li-Ion Concentrated Electrolytes
 
+<!-- <img src="/images/polyelectrolyte_fig.png" alt="" width="500"/>
+
+Li-ion battery electrolytes with enhanced transport properties may enable batteries with higher energy and power densities. I use molecular dynamics simulations to study how these macroscopic transport quantities arise from molecular-level interactions between ions in solution. Using the theoretical developments described below, I rigorously quantify ion correlations in the electrolyte, which can substantially impact macroscopic transport but are challenging to measure experimentally. The aim of this work is to provide insight into the types of electrolyte formulations which may yield high conductivity, high cation transference number, or facile transport under low temperature conditions. My work thus far has in particular explored the transport properties of nonaqueous polyelectrolyte solutions and polymerized ionic liquids.
+
+<span style="color:steelblue; font-size:0.8em;">**K. D. Fong**, J. Self, B. D. McCloskey, K. A. Persson. “Onsager
+Transport Coefficients and Transference Numbers in Polyelectrolyte
+Solutions and Polymerized Ionic Liquids.” *Macromolecules*, 2020, 53,
+21: 9503-9512. [[doi](https://doi.org/10.1021/acs.macromol.0c02001)]</span> -->
+
+
+
 ## Polarization Reversal in 2D Ferroelectric Material: Avalanche dynamics of 1D domain walls driven by $E_OP$ in 2D α-$In_2$$Se_3$
 
+<img src="/images/Avalanche dynamics of 1D domain walls.jpg" alt="" width="700"/>
+
+<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic ferroelectric switching in two dimensions. arXiv preprint arXiv:2307.09211. [[doi](https://doi.org/10.48550/arXiv.2307.09211.)]</span>
 
 ## Structure and Dynamics of Hydration Layer
 
