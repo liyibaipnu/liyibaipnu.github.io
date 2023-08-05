@@ -9,8 +9,7 @@ redirect_from:
 
 
 
-Education Background
-======
+## Education Background
 
 * Sep. 2015 - Feb. 2021, PH.D. in Naonofusion Technology, Pusan National University, Busan, Korea
   * Supervisor: [Prof. Joonkyung Jang](https://nanochem.pusan.ac.kr/nanochem/24418/subview.do)
@@ -20,8 +19,8 @@ Education Background
 
 
 
-Research Experience
-======
+## Research Experience
+
 
 * 2017,Classical molecular dynamics, ab initio MD, Deep Potential MD, DFT  
 
@@ -37,8 +36,7 @@ Research Experience
 
 
 
-Work Experience
-=====
+## Work Experience
 
 * Aug. 2018, Lecturer, “Computer Simulation with LAMMPS”, PNU Summer School  
 
@@ -48,8 +46,7 @@ Work Experience
 
 
 
-Honors and Awards
-=====
+## Honors and Awards
 
 * Sep. 2015 - Feb. 2019, Postgraduate scholarship, Pusan National University   
 
@@ -63,8 +60,7 @@ Honors and Awards
 
 
 
-Presentations
-=====
+## Presentations
 
 * Aug. 2018, Poster presentation "Phase, Structure, and Dynamics of the Hydration Layer Probed by Atomic Force
 Microscopy", KCS-PyhsChem Summer Symposium.   
@@ -77,8 +73,7 @@ Summer Symposium
 
 
 
-Publications
-=====
+## Publications
 
 1. **Bai, L**. et al. Deep Learning of Accurate Force Field of Water-in-salt Electrolytes. In Preparation.
 2. **Bai, L**. et al. Ab initio Molecular Dynamics Study on Vibrational Sum Frequency Generation of Water
