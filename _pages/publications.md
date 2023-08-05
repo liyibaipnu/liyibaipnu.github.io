@@ -10,11 +10,11 @@ author_profile: true
 2. **Bai, L**. et al. Ab initio Molecular Dynamics Study on Vibrational Sum Frequency Generation of Water
 at Hydrophobic/hydrophilic Surfaces. In Preparation.
 3. **Bai, L**. C. Ke, T. Zhu, S. Liu.(2023). Intrinsic ferroelectric switching in two dimensions. arXiv:2307.09211. submitted.
-4. Wu, J., **Bai, L**.(co-first author), Huang, J., Ma, L., Liu, J., Liu, S. (2021). Accurate Force Field of
+4. Wu, J., **Bai, L.(co-first author)**, Huang, J., Ma, L., Liu, J., Liu, S. (2021). Accurate Force Field of
 Two dimensional Ferroelectrics from Deep Learning. Physical Review B, 104(17), 174107. 
 5. **Bai, L**., Kim, K., Ha, M. Y., Ahn, Y., Jang, J. (2021). Molecular Insights on the Wetting Behavior of
 a Surface Corrugated with Nanoscale Domed Pillars. Langmuir 37, 31, 9336–9345.
-6. Zhang, Z., **Bai, L**.(co-first author), Chung, S., Jang, J. (2021). Effects of the Wettability of a Probing
+6. Zhang, Z., **Bai, L.(co-first author)**, Chung, S., Jang, J. (2021). Effects of the Wettability of a Probing
 Tip on the Hydration Layer Imaged in Atomic Force Microscopy. The Journal of Physical Chemistry
 C, 125, 11197−11205.
 7. **Bai, L**., Zhang, Z., Jang, J. (2019). Phase, Structure, and Dynamics of the Hydration Layer Probed by
