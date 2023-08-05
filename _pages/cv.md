@@ -9,91 +9,76 @@ redirect_from:
 
 
 
-## Education Background
+Education Background
+======
 
-* PH.D. in Naonofusion Technology(Computational Physical Chemisty)
-* Sep. 2015 - Feb. 2021
-
-Pusan National University, Busan, Korea
-1. Dissertation: Theoretical and Computational Investigation on Hydration Layer Probed byAtomic Force Microscopy
-2. Lab.: [Computational Nanochemistry Lab.](https://nanochem.pusan.ac.kr/nanochem/index.do)
-3. Supervisor: [Prof. Joonkyung Jang](https://nanochem.pusan.ac.kr/nanochem/24418/subview.do)
+* Sep. 2015 - Feb. 2021, PH.D. in Naonofusion Technology, Pusan National University, Busan, Korea
+  * Supervisor: [Prof. Joonkyung Jang](https://nanochem.pusan.ac.kr/nanochem/24418/subview.do)
 
 
-* B.S. in Polymer Materials and Engineering
-* Sep. 2011 - July 2015
-
-Zhongyuan University of Technology, Henan Province, China
-
-1. Graduated with Honors
+* Sep. 2011 - July 2015,B.S. in Polymer Materials and Engineering,Zhongyuan University of Technology, Henan Province, China
 
 
 
+Research Experience
+======
 
-## Research Experience
+* 2017,Classical molecular dynamics, ab initio MD, Deep Potential MD, DFT  
 
-* Classical molecular dynamics, ab initio MD, Deep Potential MD, DFT  
-* 2017  
+* 2018, Lithum-ion water-in-salt electrolytes design based on deep learning  
 
-* Lithum-ion water-in-salt electrolytes design based on deep learning  
-* 2018  
+* 2019, Ferroelectric materials based on deep learning  
 
-* Ferroelectric materials based on deep learning  
-* 2019  
+* 2020, Theory and simulation of sum frequency generation spectroscopy of interfacial structure (liquid/solid)  
 
-* Theory and simulation of sum frequency generation spectroscopy of interfacial structure (liquid/solid)  
-* 2020  
+* 2021, Molecular simulation on the phase, structure and dynamics of hydration layer  
 
-* Molecular simulation on the phase, structure and dynamics of hydration layer  
-* 2021  
-
-* Phase behavior in confined system(design of super-hydrophobic surfaces)  
-* 2022  
-
-## Work Experience
-
-* Lecturer, “Computer Simulation with LAMMPS”, PNU Summer School  
-* Aug. 2018  
-
-* Lecturer, “Computer Simulation with LAMMPS”, PNU Summer School  
-* July 2017  
-
-* Visiting student, Institute of High Energy Physics Chinese Academy of Sciences (Prof. Gao Xinfa)  
-* June 2017 - July 2017  
-
-##  Honors and Awards
-
-* Postgraduate scholarship, Pusan National University  
-* Sep. 2015 - Feb. 2019  
-
-* BK21 scholarship , Ministry of Education,Republic of Korea  
-* Sep. 2016  
-
-* National encouragement scholarship, Ministry of Education, P.R.China  
-* Nov. 2014  
+* 2022, Phase behavior in confined system(design of super-hydrophobic surfaces)  
 
 
-* National encouragement scholarship, Ministry of Education, P.R.China  
-* Nov. 2013  
 
-* Merit Students, Zhongyuan University of Technology  
-* Dec. 2013  
+Work Experience
+=====
 
-## Presentations
+* Aug. 2018, Lecturer, “Computer Simulation with LAMMPS”, PNU Summer School  
 
-* Poster presentation "Phase, Structure, and Dynamics of the Hydration Layer Probed by Atomic Force
-Microscopy", KCS-PyhsChem Summer Symposium.  
-* Aug. 2018  
+* June 2017, Visiting student, Institute of High Energy Physics Chinese Academy of Sciences (Prof. Gao Xinfa) 
 
-* Oral presentation "Dewetting transition of water confined between atomically rough surfaces", Japan-Korea
-Student Workshop: Hiroshima University and Pusan National University. 
-* Nov. 2018  
+* July 2017, Lecturer, “Computer Simulation with LAMMPS”, PNU Summer School  
 
-* Poster presentation "Dewetting transition of water confined between atomically rough surfaces", KCSPyhsChem
+
+
+Honors and Awards
+=====
+
+* Sep. 2015 - Feb. 2019, Postgraduate scholarship, Pusan National University   
+
+* Sep. 2016, BK21 scholarship , Ministry of Education,Republic of Korea  
+
+* Nov. 2014, National encouragement scholarship, Ministry of Education, P.R.China  
+
+* Nov. 2013, National encouragement scholarship, Ministry of Education, P.R.China  
+
+* Dec. 2013, Merit Students, Zhongyuan University of Technology  
+
+
+
+Presentations
+=====
+
+* Aug. 2018, Poster presentation "Phase, Structure, and Dynamics of the Hydration Layer Probed by Atomic Force
+Microscopy", KCS-PyhsChem Summer Symposium.   
+
+* Nov. 2018, Oral presentation "Dewetting transition of water confined between atomically rough surfaces", Japan-Korea
+Student Workshop: Hiroshima University and Pusan National University.  
+
+* June 2018, Poster presentation "Dewetting transition of water confined between atomically rough surfaces", KCSPyhsChem
 Summer Symposium  
-* June 2018  
 
-## Publications
+
+
+Publications
+=====
 
 Two-dimensional Instrinsic Ferroelectric Switching from Deep Neural Network Molecular Dynamics. In Preparation.  
 Deep Learning of accurate force field of water-in-salt electrolytes. In Preparation.  
@@ -106,11 +91,5 @@ Zhang, Z., **Bai, L.(co-first author)**, Chung, S., & Jang, J. (2021). Effects o
 Zhao, M., **Bai, L.**, & Jang, J. (2020). Underwater adhesion of mussel foot protein on a graphite surface. Applied Surface Science, 511, 145589.  
 Kim, K., Choi, S., Zhang, Z., **Bai, L.**, Chung, S., & Jang, J. (2022). Molecular Features of Hydration Layers: Insights from Simulation, Microscopy, and Spectroscopy. The Journal of Physical Chemistry C.126(21), 8967–8977.  
 
-## Skills
-
-| **Lammps, VASP, CP2K:**| ★ ★ ★ ★ ☆  |
-| **Fortran, Python, Matlab, Bash:** | ★ ★ ★ ★ ☆|
-| **Deepmd-kit, Keras:** | ★ ★ ★ ☆ ☆|
-| **VMD, Vesta, Materials Studio:** |★ ★ ★ ★ ☆|
 
 
