@@ -11,7 +11,8 @@ Currently, I am working on the projects of novel high-voltage lithium-ion electr
 
 ## Computational Design and Development of Li-Ion Concentrated Electrolytes
 
-## Polarization Reversal in 2D Ferroelectric Material
+## Polarization Reversal in 2D Ferroelectric Material: Avalanche dynamics of 1D domain walls driven by $E_OP$ in 2D α-$In_2$$Se_3$
+
 
 ## Structure and Dynamics of Hydration Layer
 
