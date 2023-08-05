@@ -34,16 +34,11 @@ https://doi.org/10.48550/arXiv.2307.09211)]</span>
 ## Structure and Dynamics of Hydration Layer
 <img src="/images/hydration.png" alt="" width="500"/>
 
+<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic ferroelectric switching in two dimensions. arXiv preprint arXiv:2307.09211. [[doi](
+https://doi.org/10.48550/arXiv.2307.09211)]</span>
+
+
 ## Computational Design of Super-hydrophobic Surfaces
 <img src="/images/surface-design.png" alt="" width="500"/>
 
 
-## Research Experience
-
-* 2017,Classical molecular dynamics, ab initio MD, Deep Potential MD, DFT  
-* 
-* 2020, Theory and simulation of sum frequency generation spectroscopy of interfacial structure (liquid/solid)  
-
-* 2021, Molecular simulation on the phase, structure and dynamics of hydration layer  
-
-* 2022, Phase behavior in confined system(design of super-hydrophobic surfaces)
