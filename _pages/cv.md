@@ -18,9 +18,12 @@ Acdemic Positions
 Education
 ======
 
-* Sep. 2015 - Feb. 2021, Ph.D. in Naonofusion Technology, Pusan National University, Busan, Korea.
+* Sep. 2015 - Feb. 2021, Ph.D. in Naonofusion Technology, Pusan National University, Busan, Korea. (2021)
+  * Advisors: Joonkyung Jang
+  * Thesis:"Theoretical and Computational Investigation on Hydration Layer Probed by AtomicForce Mi-
+croscopy."
 
-* Sep. 2011 - Jul. 2015, B.S. in Polymer Materials and Engineering, Zhongyuan University of Technology, China
+* Sep. 2011 - Jul. 2015, B.S. in Polymer Materials and Engineering, Zhongyuan University of Technology, China. (2015)
 
 Work Experience
 ======
