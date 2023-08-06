@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Full [CV](../files/Liyi_CV.pdf)
+Full [CV](../CV.pdf)
 
 Acdemic Positions
 ======
