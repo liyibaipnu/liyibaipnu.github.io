@@ -7,7 +7,7 @@ author_profile: true
 
 My research interests lie in understanding structures and dynamics of liquid−solid and liquid−air interfaces, liquid water, etc. in soft condensed matter areas. I use theoretical tools from molecular dynamics simulation techniques and ab initio calculation method as well as deep learning methods. Currently, I am working on the force field developments of novel high-voltage lithium-ion electrolytes and the analysis of electrolyte structural dynamics. Additionally, I have been working on the polarization flipping dynamics of two-dimensional ferroelectric materials based on machine learning potential.
 
-## Computational Design and Development of Li-Ion Concentrated Electrolytes
+## Accurate deep potentia of Li-Ion Concentrated Electrolytes
 
 <img src="/images/ann.png" alt="" width="500"/>
 
