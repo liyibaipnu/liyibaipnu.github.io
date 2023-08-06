@@ -4,7 +4,6 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-## Awards
 
 * Postgraduate scholarship, Pusan National University, Sep. 2015 - Feb. 2019
 
