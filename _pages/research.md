@@ -13,7 +13,7 @@ My research interests lie in understanding structures and dynamics of liquid−s
 
 <!-- The wide electrochemical stability window and nonflammable characteristics exhibited by the localized super-high concentration aqueous electrolyte of lithium-ion batteries have brought new ideas for the development of next-generation power requirements. Ion transport, as one of the most fundamental processes of electrolytes, is important for the design and development of high performance nonflammable batteries. However, atomistic mechanisms and characteristics of ion transport in localized ultra-high concentration electrolytes remain largely unexplored. I employ the "modular development of deep potential" strategy, integrating deep learning, first-principles calculations, and molecular dynamics methods, to develop a deep neural network-based model potential known as Deep Potential(forcefield). The development of this deep potential is of great significance for enabling large-scale molecular dynamics simulations of complex high-concentration electrolytes, as well as opening up avenues for analyzing the microscopic structure, ion conductivity, and transport mechanisms of localized ultra-high concentration electrolytes. -->
 
-<span style="color:steelblue; font-size:0.8em;"> **Bai, L**. et al. Accurate deep potential for ternary high-voltage lithium-ion aqueous electrolytes. In Preparation.
+<span style="color:steelblue; font-size:0.8em;"> **Bai, L**. et al. Accurate Deep Potential for Ternary High-voltage Lithium-ion Aqueous Electrolytes. In Preparation.
 
 
 
@@ -26,7 +26,7 @@ My research interests lie in understanding structures and dynamics of liquid−s
 
 
 
-<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic ferroelectric switching in two dimensions. arXiv preprint arXiv:2307.09211. [[doi](
+<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Ke, C., Zhu, T., & Liu, S. (2023). Intrinsic Ferroelectric Switching in Two Dimensions. arXiv preprint arXiv:2307.09211. [[doi](
 https://doi.org/10.48550/arXiv.2307.09211)]</span>
 
 <span style="color:steelblue; font-size:0.8em;">  Wu, J., **Bai, L.(co-first author)**, Huang, J., Ma, L., Liu, J., Liu, S. (2021). Accurate Force Field of Two dimensional Ferroelectrics from Deep Learning. Physical Review B, 104(17), 174107. [[doi](
@@ -44,8 +44,8 @@ https://doi.org/10.1021/acs.jpcc.1c02022)]</span>
 <span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Zhang, Z., Jang, J. (2019). Phase, Structure, and Dynamics of the Hydration Layer Probed by Atomic Force Microscopy. The Journal of Physical Chemistry C, 123(35), 21528-21537. [[doi](
 https://doi.org/10.1021/acs.jpcc.9b04736)]</span>
 
-<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Jang, J., Zhang, Z., Jang, J. (2018). Dewetting transition of water confined between atomically
-rough surfaces: A lattice gas Monte Carlo simulation study. Chemical Physics Letters, 694, 29-34. [[doi](
+<span style="color:steelblue; font-size:0.8em;">  **Bai, L.**, Jang, J., Zhang, Z., Jang, J. (2018). Dewetting Transition of Water Confined between Atomically
+Rough Surfaces: A Lattice Gas Monte Carlo Simulation Study. Chemical Physics Letters, 694, 29-34. [[doi](
 https://doi.org/10.1016/j.cplett.2018.01.032)]</span>
 
 
