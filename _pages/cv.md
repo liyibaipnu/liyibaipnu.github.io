@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Full [CV](http://liyibaipnu.github.io/files/CV.pdf)
+Full [CV](http://liyibaipnu.github.io/files/Liyi_CV_en.pdf)
 
 Acdemic Positions
 ======
